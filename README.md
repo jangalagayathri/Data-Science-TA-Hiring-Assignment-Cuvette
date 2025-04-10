@@ -13,6 +13,7 @@ This repo contains my solutions for the Data Science TA Hiring Assignment. I’v
 - Tools: Jupyter Notebook, pandas, seaborn, scikit-learn, matplotlib.
   
 📁 File:https://github.com/jangalagayathri/Data-Science-TA-Hiring-Assignment-Cuvette/blob/689eb04e8f5fae4e9ae27aef25c053dbd830014a/StudentsPerformance.csv
+<br>
 📁 File: https://github.com/jangalagayathri/Data-Science-TA-Hiring-Assignment-Cuvette/blob/0f1b4f22543c6d89486e28cdfeb0de1b4b3814dc/section1studentperformance-checkpoint.ipynb
 
 
