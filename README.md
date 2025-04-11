@@ -18,23 +18,6 @@ This repo contains my solutions for the Data Science TA Hiring Assignment. I’v
 
 
 
----
-
-## 🗃️ Section 2: SQL (Chinook Database)
-
-- Analyzed music store sales data using SQL.
-- Tasks completed:
-  - Top customers by revenue
-  - Top selling genres
-  - Artists with top-selling albums
-  - Employee-manager hierarchy
-  - Monthly revenue trends
-- Tools: SQLiteOnline / DB Browser for SQLite
-
-📁 File: chinook_queries.sql
-
----
-
 ## 📊 Section 3: Tableau (NYC Airbnb)
 
 - Built an interactive dashboard using Tableau Public.
@@ -45,51 +28,10 @@ This repo contains my solutions for the Data Science TA Hiring Assignment. I’v
   - Map view of NYC listings
 - Included filters for dynamic exploration.
 
-🌐 Link to Dashboard: [Insert your Tableau Public dashboard link here]
+🌐 Link to Dashboard: https://public.tableau.com/views/task2_17443555397990/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
----
 
-## 📈 Section 4: Excel (UCI Online Retail)
 
-- Cleaned data: removed nulls, duplicates, filtered bad records.
-- Analyzed customer behavior:
-  - Top countries by revenue
-  - Average order value
-  - Monthly revenue trends
-- Tools: Excel formulas, pivot tables, charts
 
-📁 File: online_retail_analysis.xlsx
-
----
-
-## 🤖 Section 5: AI Tool Usage
-
-- Used ChatGPT for:
-  - Generating EDA and ML code templates
-  - Debugging errors in sklearn
-  - Validating SQL logic
-- Reflected on how AI can speed up analysis and support students in learning core concepts faster and more interactively.
-
----
-
-## 🎥 Section 6: Screen Recording
-
-- Recorded a 12-minute video walking through:
-  - Python notebook and model results
-  - SQL queries and logic
-  - Tableau dashboard highlights
-  - Excel analysis
-  - Reflection on AI tools
-- Camera was ON and voiceover provided throughout
-
-🎬 Recording Link: [Insert Google Drive / YouTube link]
-
----
-
-## 🙋 Why Me?
-
-I’m passionate about teaching and simplifying complex data concepts. Through this project, I demonstrated hands-on skills in data science workflows and showcased my ability to communicate them effectively — which is what makes a great TA!
-
-Thank you for considering my application! 🚀
 
 
